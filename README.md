@@ -1,4 +1,4 @@
-## Hi there, I'm Viktor Paraj
+## Hi there
 - 🌱 Interested in Code Optimization, Graphics Programming, Game Development, C++ and Software Architecture
 - 🔭 I enjoy experimenting with different areas of software development from game engines to backend systems.
 
