@@ -18,6 +18,6 @@
 
 ### Languages
 - Main: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-- Secondary: <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+- Secondary: <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=styzex&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=styzex&langs_count=4&theme=catppuccin_mocha)
