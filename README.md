@@ -18,6 +18,6 @@
 
 ### Languages
 - Main: [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-- Secondary:  [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+- Secondary:  [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=styzex&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=styzex&langs_count=4&theme=catppuccin_mocha)
