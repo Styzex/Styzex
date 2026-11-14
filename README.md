@@ -1,6 +1,6 @@
-## Hi there
-- 🌱 Interested in Code Optimization, Graphics Programming, Game Development, C++ and Software Architecture
-- 🔭 I enjoy experimenting with different areas of software development from game engines to backend systems.
+## Heyoo~
+- 🌱 Interested in Game Development, Graphics Programming, Web Development and Software Architecture
+- 🔭 I enjoy experimenting with different areas of software development.
 
 ### Skills
 - Systems programming
